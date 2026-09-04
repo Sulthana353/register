@@ -4,6 +4,8 @@
     "email": "sulthanathazneem@gmail.com"
   },
   "records": {
-    "CNAME": "sulthana-gilt.vercel.app"
+    "CNAME": "sulthana-gilt.vercel.app",
+    "A": "216.198.79.1",
+    "TXT": "vc-domain-verify=sulthana.is-a.dev,4d964ff3f897ab9a2c14"
   }
 }
